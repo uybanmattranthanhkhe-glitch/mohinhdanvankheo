@@ -306,7 +306,7 @@
                   <li><b>Chọn đơn vị đăng ký:</b> “Khu dân cư” (chọn trong danh sách) hoặc “Cơ quan, trường học, đơn vị khác” (tự nhập tên đơn vị).</li>
                   <li><b>Điền đủ 9 mục</b> của mô hình. Tất cả đều bắt buộc; nếu thiếu, hệ thống sẽ báo và đưa con trỏ về ô còn trống.</li>
                   <li><b>Bấm “Gửi đăng ký”</b> và chờ thông báo màu xanh là thành công (không bấm gửi nhiều lần).</li>
-                  <li><b>Kiểm tra lại</b> ở tab “Danh sách đã đăng ký”: chạm vào tên đơn vị để xem chi tiết; bấm “Làm mới” để cập nhật hoặc “Tải Excel” để lưu về máy.</li>
+                  <li><b>Kiểm tra lại</b> ở tab “Danh sách đã đăng ký”: chạm vào tên đơn vị để xem chi tiết; bấm “Làm mới” để cập nhật (Mục “Tải Excel” dành cho BTT).</li>
                 </ol>
                 <div class="hd-tip">
                   💡 <b>Mẹo:</b> kéo góc dưới bên phải của mỗi ô nhập để phóng to / thu nhỏ khi cần kiểm tra nội dung. Nhấn <b>Enter</b> để xuống dòng. Nếu báo lỗi khi gửi, kiểm tra kết nối mạng rồi thử lại; nội dung trong form vẫn được giữ nguyên.
