@@ -723,7 +723,7 @@
     if (!summary.rows || summary.rows.length === 0) {
       list.innerHTML = '<div class="empty-msg">Chưa có mô hình nào đăng ký.</div>';
     } else {
-      const hint = unlocked ? '' : '<div class="lock-hint"><b>Dành cho Ban thường trực:</b><br>🔒 Bấm vào đơn vị để xem chi tiết (cần mật khẩu)</div>';
+      const hint = unlocked ? '' : '<div class="lock-hint"><b>Dành cho Ban thường trực:</b>🔒 Bấm vào đơn vị để xem chi tiết (cần mật khẩu)</div>';
       list.innerHTML = hint + summary.rows.map((r, i) =>
         '<div class="unit" id="unit-' + i + '">' +
           '<div class="unit-head" role="button" tabindex="0" aria-expanded="false">' +
